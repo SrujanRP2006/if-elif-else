@@ -9,6 +9,6 @@ else:
     elif name =="sumanth":
         print("my be free food because he is srujan's brother")
     else:
-        if name == "charan":
-            print("he has free food because he paied the fees")
+         print("he has free food because he paied the fees")
     
+
